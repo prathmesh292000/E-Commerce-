@@ -725,6 +725,15 @@ img {
 }
 }
 
+@media (max-width: 420px)  { 
+    .categories1{
+   
+        position: absolute;
+    top: -9999px;
+    
+}
+}
+
 .testimonial h1{
     color: #ddd;
 }
